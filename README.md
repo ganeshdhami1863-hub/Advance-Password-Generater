@@ -34,5 +34,5 @@ Include Symbols? (Y/N): y
 Generated Password:
 @k8!mP3#xQ2$
 
-👨‍💻 Author
+👨‍💻 Author :
 Ganesh Dhami
