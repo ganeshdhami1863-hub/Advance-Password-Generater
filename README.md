@@ -14,13 +14,6 @@ Input validation for user-friendly experience
 Python 3
 random module
 string module
-🚀 How to Run
-Clone this repository:
-
-Open the project folder.
-
-Run:
-python password_generator.py
 
 📸 Sample Output
 ========================================
